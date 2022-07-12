@@ -8,9 +8,9 @@ The main purpose of image thresholding in mistaken image processing helps to cla
 
 The real-time adaptive thresholding method is implemented using the input integral image. This is a simple, powerful and easy to implement method. This technique is suitable for processing live video streams at standard real-time frame rates. In addition, the above method is also applied in advanced image processing or computer graphics applications.
 
-<center>
-  <img src="https://user-images.githubusercontent.com/55480300/178339227-88769cf9-90f8-4eca-85ef-9aaa3d78a841.png" width="650"/>
-</center>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55480300/178339227-88769cf9-90f8-4eca-85ef-9aaa3d78a841.png" width="800"/>
+</p>
 
 - **Pros**: Capable of handling images in online conditions if the device is powerful enough.
 - **Cons**: Due to the focus on speed and light balance, some details can be overlooked
